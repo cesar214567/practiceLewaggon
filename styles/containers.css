@@ -1,0 +1,30 @@
+h1{
+    color: red;
+}
+body{
+    background-color: #B0D0D3;
+    text-align: center;
+    color:blue;
+}
+
+.text-red{
+    color: red;
+}
+p{
+    color: #565e7d;
+
+}
+
+.my-container {
+    border:solid 6px;
+    border-color: #FFCAD4;
+    width: 75%;
+    margin:  20px 0 20px 12.5%;
+    background: #fffeff;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 25px;
+}
+.my-container .titulo{
+    border: none;
+}
